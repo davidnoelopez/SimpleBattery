@@ -1,5 +1,5 @@
 #include "pebble.h"
-// sample change
+
 Window *window;
 Layer *date_layer;
 Layer *time_layer;
