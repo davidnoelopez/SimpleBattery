@@ -9,10 +9,9 @@
     "resources": {
         "media": [
             {
-                "file": "images/simpleBattery.png",
-                "menuIcon": true,
-                "name": "MENU_IMAGE",
-                "type": "png"
+                "file": "fonts/OSP-DIN_44.ttf",
+                "name": "FONT_OSP_DIN_44",
+                "type": "font"
             },
             {
                 "file": "fonts/OSP-DIN_44.ttf",
@@ -20,9 +19,10 @@
                 "type": "font"
             },
             {
-                "file": "fonts/OSP-DIN_44.ttf",
-                "name": "FONT_OSP_DIN_44",
-                "type": "font"
+                "file": "images/simpleBattery.png",
+                "menuIcon": true,
+                "name": "MENU_IMAGE",
+                "type": "png"
             }
         ]
     },
